@@ -18,7 +18,7 @@ For me, video games are a great way to explore both from the technological stand
 to the business and fincancial stand point (promoting, marketing, and scheduling partnerships)
 and also having the artistic side (having a story/narritive, art, and animation).
 
-I plan on becoming a "game developer" which has always been my dream.
+I plan on becoming a "game developer" which has always been my dream. As of right now and of course the future, I'm working on different projects both big and small in order to get into the feeling of achieving or at least understanding what I need to do in order to become proficient in making video games. I know how to use Blender 3D, make textures, and hopefully with enough practice and not being scared, create models and rig them for people to use. Also, I'm expanding my knowledge beyond C++ and using languages like JavaScript, CSS, and HTML (with the chance of possibly adding more) into my toolkit so I'm not unfamiliar in what I want to make for games!
 
 ## Linking for Proper Credit for use of Assets/Resources! (Because I couldn't have done this without them!)
 
